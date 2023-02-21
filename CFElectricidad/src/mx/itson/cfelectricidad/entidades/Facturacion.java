@@ -11,4 +11,65 @@ package mx.itson.cfelectricidad.entidades;
  */
 public class Facturacion {
     
+    private String conepto;
+    private int kWh;
+    private double precio;
+    private Pago subTotal;
+
+    /**
+     * @return the conepto
+     */
+    public String getConepto() {
+        return conepto;
+    }
+
+    /**
+     * @param conepto the conepto to set
+     */
+    public void setConepto(String conepto) {
+        this.conepto = conepto;
+    }
+
+    /**
+     * @return the kWh
+     */
+    public int getkWh() {
+        return kWh;
+    }
+
+    /**
+     * @param kWh the kWh to set
+     */
+    public void setkWh(int kWh) {
+        this.kWh = kWh;
+    }
+
+    /**
+     * @return the precio
+     */
+    public double getPrecio() {
+        return precio;
+    }
+
+    /**
+     * @param precio the precio to set
+     */
+    public void setPrecio(double precio) {
+        this.precio = precio;
+    }
+
+    /**
+     * @return the subTotal
+     */
+    public Pago getSubTotal() {
+        return subTotal;
+    }
+
+    /**
+     * @param subTotal the subTotal to set
+     */
+    public void setSubTotal(Pago subTotal) {
+        this.subTotal = subTotal;
+    }
+    
 }
