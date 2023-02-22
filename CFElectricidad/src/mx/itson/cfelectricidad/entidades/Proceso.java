@@ -8,8 +8,8 @@ package mx.itson.cfelectricidad.entidades;
 import java.util.Date;
 
 /**
- *
- * @author enri0
+ * Entidad Proceso que maneja todas los atributos requeridos para el proceso de facturacion.
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
  */
 public class Proceso {
     
