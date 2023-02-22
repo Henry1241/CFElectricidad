@@ -7,7 +7,7 @@ package mx.itson.cfelectricidad.entidades;
 
 /**
  * Entidad MedicionConsumo que es la responsable de tener los atributos para la medicion de consumo.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class MedicionConsumo {
     
