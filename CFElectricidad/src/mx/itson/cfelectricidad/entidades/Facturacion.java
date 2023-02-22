@@ -6,8 +6,8 @@
 package mx.itson.cfelectricidad.entidades;
 
 /**
- *
- * @author enri0
+ * Entidad Facturacion que contiene los distintos atributos en una factura.
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles
  */
 public class Facturacion {
     

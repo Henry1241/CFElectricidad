@@ -9,8 +9,8 @@ import java.util.Date;
 import mx.itson.cfelectricidad.enumeradores.MetodoPago;
 
 /**
- *
- * @author enri0
+ * Entidad Pago que controla todos los aributos necesarios para un pago de servicio.
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
  */
 public class Pago {
     

@@ -8,8 +8,8 @@ package mx.itson.cfelectricidad.entidades;
 import java.util.Date;
 
 /**
- *
- * @author enri0
+ * Entidad Recibo que controla los distintos atributos que manejan un recibo.
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
  */
 public class Recibo {
     

@@ -6,8 +6,8 @@
 package mx.itson.cfelectricidad.main;
 
 /**
- *
- * @author enri0
+ * Clase Main
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles
  */
 public class Main {
 
