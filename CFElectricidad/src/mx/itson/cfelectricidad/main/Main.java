@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cfelectricidad;
+package mx.itson.cfelectricidad.main;
 
 /**
  *
  * @author enri0
  */
-public class CFElectricidad {
+public class Main {
 
     /**
      * @param args the command line arguments
