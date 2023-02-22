@@ -10,7 +10,7 @@ import mx.itson.cfelectricidad.enumeradores.MetodoPago;
 
 /**
  * Entidad Pago que controla todos los aributos necesarios para un pago de servicio.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class Pago {
     

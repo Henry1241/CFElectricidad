@@ -8,7 +8,7 @@ package mx.itson.cfelectricidad.entidades;
 import java.util.List;
 /**
  * Entidad Cliente que contiene todos los atributos para el llenado de datos de un cliente.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, 
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class Cliente {
     

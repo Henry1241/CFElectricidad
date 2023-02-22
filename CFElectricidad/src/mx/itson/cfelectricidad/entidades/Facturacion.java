@@ -7,27 +7,27 @@ package mx.itson.cfelectricidad.entidades;
 
 /**
  * Entidad Facturacion que contiene los distintos atributos en una factura.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class Facturacion {
     
-    private String conepto;
+    private String concepto;
     private int kWh;
     private double precio;
     private Pago subTotal;
 
     /**
-     * @return the conepto
+     * @return the concepto
      */
-    public String getConepto() {
-        return conepto;
+    public String getConcepto() {
+        return concepto;
     }
 
     /**
-     * @param conepto the conepto to set
+     * @param conepto the concepto to set
      */
     public void setConepto(String conepto) {
-        this.conepto = conepto;
+        this.concepto = conepto;
     }
 
     /**

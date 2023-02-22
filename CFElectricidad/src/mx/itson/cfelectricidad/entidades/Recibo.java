@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * Entidad Recibo que controla los distintos atributos que manejan un recibo.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class Recibo {
     

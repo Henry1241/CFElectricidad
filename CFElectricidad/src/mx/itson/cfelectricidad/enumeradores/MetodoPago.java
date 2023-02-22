@@ -7,7 +7,7 @@ package mx.itson.cfelectricidad.enumeradores;
 
 /**
  * Enumerador que representa los diferentes tipos de pago disponibles.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public enum MetodoPago {
     

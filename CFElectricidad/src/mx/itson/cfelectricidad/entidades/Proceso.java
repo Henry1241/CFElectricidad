@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * Entidad Proceso que maneja todas los atributos requeridos para el proceso de facturacion.
- * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles,
+ * @author Enrique Gonzales Leyva, Xylan Rodriguez Robles, Hector Cardenas
  */
 public class Proceso {
     
